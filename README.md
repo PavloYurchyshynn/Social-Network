@@ -1,3 +1,7 @@
+# You need to login to social-network.samurai.
+Use email: testloginpage123@gmail.com
+password: free
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
