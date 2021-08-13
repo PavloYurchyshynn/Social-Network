@@ -2,7 +2,8 @@
   grid-area: n;
   background-color: white;
   padding: 20px;
-  border-right: 1px solid silver;
+  border-radius: 5px;
+  margin: 5px;
 }
 
 .item a {
